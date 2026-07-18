@@ -1,0 +1,68 @@
+[
+  {
+    "id": "gov-sh-001",
+    "title": "上海市智能算力中心服务器及存储设备采购项目公开招标公告",
+    "published_at": "2026-07-12T09:30:00",
+    "region": "上海",
+    "buyer": "上海市信息化项目建设中心",
+    "agency": "上海政采招标代理有限公司",
+    "project_no": "SH-ZC-2026-0712-AI01",
+    "notice_stage": "PROCUREMENT",
+    "procurement_method": "公开招标",
+    "budget": "2380万元",
+    "deadline": "2026-08-02T09:30:00",
+    "source_url": "https://example.gov.cn/notices/SH-ZC-2026-0712-AI01",
+    "core_content": "采购内容包括GPU服务器、通用计算服务器、分布式存储节点及数据中心网络配套设备，服务于上海市智能算力中心扩容建设。",
+    "attachments": [
+      {
+        "name": "招标文件.pdf",
+        "url": "https://example.gov.cn/attachments/SH-ZC-2026-0712-AI01.pdf"
+      }
+    ],
+    "evidence_quote": "本项目采购GPU服务器、通用计算服务器、分布式存储节点及数据中心网络配套设备。"
+  },
+  {
+    "id": "gov-ah-001",
+    "title": "安徽省高速服务区充电站低压配套及边缘计算设备采购公告",
+    "published_at": "2026-07-14T10:00:00",
+    "region": "安徽",
+    "buyer": "安徽交控能源有限公司",
+    "agency": "安徽公共资源项目管理有限公司",
+    "project_no": "AH-NY-2026-0714-CDZ",
+    "notice_stage": "PROCUREMENT",
+    "procurement_method": "公开招标",
+    "budget": "1889.4万元",
+    "deadline": "2026-08-05T10:00:00",
+    "source_url": "https://example.gov.cn/notices/AH-NY-2026-0714-CDZ",
+    "core_content": "本项目采购高速服务区充电站低压设备、监控网关、边缘计算节点及运维平台接入服务。",
+    "attachments": [
+      {
+        "name": "采购需求.docx",
+        "url": "https://example.gov.cn/attachments/AH-NY-2026-0714-CDZ.docx"
+      }
+    ],
+    "evidence_quote": "采购高速服务区充电站低压设备、监控网关、边缘计算节点及运维平台接入服务。"
+  },
+  {
+    "id": "gov-sh-002",
+    "title": "上海市智能算力中心服务器及存储设备采购项目更正公告",
+    "published_at": "2026-07-15T14:20:00",
+    "region": "上海",
+    "buyer": "上海市信息化项目建设中心",
+    "agency": "上海政采招标代理有限公司",
+    "project_no": "SH-ZC-2026-0712-AI01",
+    "notice_stage": "CHANGE",
+    "procurement_method": "公开招标",
+    "budget": "2380万元",
+    "deadline": "2026-08-04T09:30:00",
+    "source_url": "https://example.gov.cn/notices/SH-ZC-2026-0712-AI01-change-01",
+    "core_content": "对GPU服务器显存参数和投标截止时间进行更正，投标截止时间延期至2026年8月4日。",
+    "attachments": [
+      {
+        "name": "更正说明.pdf",
+        "url": "https://example.gov.cn/attachments/SH-ZC-2026-0712-AI01-change.pdf"
+      }
+    ],
+    "evidence_quote": "投标截止时间延期至2026年8月4日，并调整GPU服务器显存参数。"
+  }
+]

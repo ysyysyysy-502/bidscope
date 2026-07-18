@@ -1,0 +1,50 @@
+[
+  {
+    "id": "comm-sh-001",
+    "title": "上海市智能算力中心服务器及存储设备采购项目公开招标公告",
+    "published_at": "2026-07-12T09:40:00",
+    "region": "上海",
+    "buyer": "上海市信息化项目建设中心",
+    "agency": "上海政采招标代理有限公司",
+    "project_no": "SH-ZC-2026-0712-AI01",
+    "notice_stage": "PROCUREMENT",
+    "procurement_method": "公开招标",
+    "budget": "2380万元",
+    "deadline": "2026-08-02T09:30:00",
+    "source_url": "https://commercial.example.com/item/12345",
+    "core_content": "商业聚合站同步发现该项目，并提供采购单位画像入口；联系人和合作企业深度分析需会员解锁。",
+    "attachments": [
+      {
+        "name": "原文附件入口",
+        "url": "https://example.gov.cn/attachments/SH-ZC-2026-0712-AI01.pdf"
+      }
+    ],
+    "evidence_quote": "商业聚合站同步发现该项目，联系人和合作企业深度分析需会员解锁。",
+    "restricted_fields": [
+      "采购单位联系人",
+      "合作企业关系分析",
+      "重点代理机构画像"
+    ]
+  },
+  {
+    "id": "comm-ah-001",
+    "title": "安徽高速服务区充电站低压配套及边缘计算设备采购项目",
+    "published_at": "2026-07-14T10:30:00",
+    "region": "安徽",
+    "buyer": "安徽交控能源有限公司",
+    "agency": "安徽公共资源项目管理有限公司",
+    "project_no": "AH-NY-2026-0714-CDZ",
+    "notice_stage": "PROCUREMENT",
+    "procurement_method": "公开招标",
+    "budget": "1889.4万元",
+    "deadline": "2026-08-05T10:00:00",
+    "source_url": "https://commercial.example.com/item/67890",
+    "core_content": "商业聚合站发现高速服务区充电站相关项目，命中充电站、边缘计算、运维平台关键词。",
+    "attachments": [],
+    "evidence_quote": "命中充电站、边缘计算、运维平台关键词。",
+    "restricted_fields": [
+      "采购单位通讯录",
+      "月度采购规模统计"
+    ]
+  }
+]

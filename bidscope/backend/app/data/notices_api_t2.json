@@ -1,0 +1,41 @@
+[
+  {
+    "id": "api-sh-001",
+    "title": "上海智算资源池扩容服务器采购意向",
+    "published_at": "2026-07-10T11:10:00",
+    "region": "上海",
+    "buyer": "上海某国资云平台公司",
+    "agency": null,
+    "project_no": "API-SH-2026-0710-001",
+    "notice_stage": "PRE_MARKET",
+    "procurement_method": "采购意向",
+    "budget": "约3000万元（线索金额，需回源核验）",
+    "deadline": null,
+    "source_url": "https://api-source.example.com/notices/API-SH-2026-0710-001",
+    "core_content": "API 数据源发现上海智算资源池扩容线索，涉及AI服务器、算力平台和网络交换设备，需回查正式采购公告。",
+    "attachments": [],
+    "evidence_quote": "涉及AI服务器、算力平台和网络交换设备，当前为采购意向线索。"
+  },
+  {
+    "id": "api-gd-001",
+    "title": "广东数据中心网络设备与服务器维保服务招标数据",
+    "published_at": "2026-07-11T16:30:00",
+    "region": "广东",
+    "buyer": "广东省政务云运营单位",
+    "agency": null,
+    "project_no": "API-GD-2026-0711-DC",
+    "notice_stage": "PROCUREMENT",
+    "procurement_method": "公开招标",
+    "budget": "960万元",
+    "deadline": "2026-07-31T17:00:00",
+    "source_url": "https://api-source.example.com/notices/API-GD-2026-0711-DC",
+    "core_content": "结构化 API 返回数据中心网络设备、服务器维保服务、备件与驻场服务等字段。",
+    "attachments": [
+      {
+        "name": "api返回附件链接",
+        "url": "https://api-source.example.com/attachments/API-GD-2026-0711-DC.pdf"
+      }
+    ],
+    "evidence_quote": "数据中心网络设备、服务器维保服务、备件与驻场服务。"
+  }
+]

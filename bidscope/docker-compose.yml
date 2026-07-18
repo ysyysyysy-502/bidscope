@@ -1,0 +1,42 @@
+services:
+  api:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    environment:
+      - BIDSCOPE_STORAGE_DIR=/app/storage
+      - DATABASE_URL=postgresql://bidscope:bidscope@postgres:5432/bidscope
+      - REDIS_URL=redis://redis:6379/0
+    volumes:
+      - ./backend/storage:/app/storage
+    depends_on:
+      - postgres
+      - redis
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "5173:5173"
+    environment:
+      - VITE_API_BASE=http://localhost:8000
+    depends_on:
+      - api
+
+  postgres:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_DB: bidscope
+      POSTGRES_USER: bidscope
+      POSTGRES_PASSWORD: bidscope
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+
+volumes:
+  postgres_data:
